@@ -6,7 +6,6 @@ Updates made on main on Github before rebase
 
 On demo branch
 
+Repository Purpose
 
-## Repository Purpose
-
-This will result in conflicts
+This file is a README file
